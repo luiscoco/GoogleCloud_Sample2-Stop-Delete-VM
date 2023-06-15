@@ -2,7 +2,7 @@
 using Google.Cloud.Compute.V1;
 
 // TODO(developer): Set your own default values for these parameters or pass different values when calling this method.
-string projectId = "focus-cache-387205";
+string projectId = "XXXXXXXXXXXX";
 string zone = "europe-southwest1-a";
 string machineName = "luis-test-machine";
 
