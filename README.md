@@ -1,5 +1,7 @@
 # GoogleCloud_Sample2-Stop-Delete-VM
+
 https://cloud.google.com/compute/docs/samples/compute-stop-instance
+
 https://cloud.google.com/compute/docs/samples/compute-instances-delete
 
 This code demonstrates how to use the Google Cloud Compute API to stop and delete a virtual machine (VM) instance in a specified project and zone.
